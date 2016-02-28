@@ -1,0 +1,28 @@
+_repo: Life-and-Death-of-John-of-Barneveld-Advocate-of-Holland-with-a-view-of-the-primary-causes-and-__4894
+creator:
+  author:
+    agent_name: Motley, John Lothrop
+    aliases:
+    - Motley, J. L. (John Lothrop)
+    - Motley, J. Lothrop (John Lothrop)
+    birthdate: 1814
+    deathdate: 1877
+    gutenberg_agent_id: '1583'
+    url: http://www.gutenberg.org/2009/agents/1583
+    wikipedia: http://en.wikipedia.org/wiki/John_Lothrop_Motley
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thirty Years'' War, 1618-1648'
+- !lcc 'DH'
+- !lcsh 'Oldenbarnevelt, Johan van, 1547-1619'
+title: 'Life and Death of John of Barneveld, Advocate of Holland : with a view of
+  the primary causes and movements of the Thirty Years'' War, 1617'
+url: http://www.gutenberg.org/ebooks/4894

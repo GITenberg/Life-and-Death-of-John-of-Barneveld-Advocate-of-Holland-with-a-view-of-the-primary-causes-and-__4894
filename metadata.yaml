@@ -1,5 +1,8 @@
 _repo: Life-and-Death-of-John-of-Barneveld-Advocate-of-Holland-with-a-view-of-the-primary-causes-and-__4894
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Motley, John Lothrop
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1583
     wikipedia: http://en.wikipedia.org/wiki/John_Lothrop_Motley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4894#Life-and-Death-of-John-of-Barneveld-Advocate-of-Holland-with-a-view-of-the-primary-causes-and-_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:

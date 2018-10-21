@@ -1,5 +1,5 @@
 _repo: Life-and-Death-of-John-of-Barneveld-Advocate-of-Holland-with-a-view-of-the-primary-causes-and-__4894
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Thirty Years'' War, 1618-1648'
 - !lcc 'DH'
 - !lcsh 'Oldenbarnevelt, Johan van, 1547-1619'
+- GITenberg
 title: 'Life and Death of John of Barneveld, Advocate of Holland : with a view of
   the primary causes and movements of the Thirty Years'' War, 1617'
 url: http://www.gutenberg.org/ebooks/4894
